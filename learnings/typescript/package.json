@@ -1,0 +1,13 @@
+{
+  "name": "typescript",
+  "version": "1.0.0",
+  "description": "- TypeScript is a superset of JavaScript that adds optional static typing and other features to improve the development.\r - It is designed to help catch errors early and improve code maintainability.\r - TypeScript is not a replacement for JavaScript, but rather a way to enhance it.\r - tsc compiler is used for traspiling ts code into js code.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs"
+}
